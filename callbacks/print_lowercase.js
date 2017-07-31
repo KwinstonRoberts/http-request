@@ -1,4 +1,4 @@
-var getHTML = require('../http-request/http-functions');
+var getHTML = require('../http-functions');
 
 var requestOptions = {
   host: 'sytantris.github.io',
